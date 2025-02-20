@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @virtaditi
-- 👀 I’m interested in Java, Scala, Python, Javascript and Web programming
+- 👀 I’m interested in Swift, iOS, MacOs programming
 - 💞️ I’m looking to collaborate on different projects and interesting companies.
 - 📫 How to reach me:
 - my email vmwjdroot@gmail.com
